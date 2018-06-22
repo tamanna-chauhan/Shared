@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shared perfernce</string>
+    <string name="name">NAME</string>
+    <string name="age">AGE</string>
+    <string name="button">Button</string>
+    <string name="hello">HELLO</string>
+    <string name="bye">BYE</string>
+    <string name="goodbye">GOODBYE</string>
+    <string name="enter_string_app_name">Enter Name</string>
+    <string name="enter_string_class">Enter class</string>
+    <string name="enter_string_age">Enter age</string>
+    <string name="clS">CLASS</string>
+
+</resources>
